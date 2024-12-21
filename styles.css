@@ -1,0 +1,15 @@
+body {
+  background-color: #98c1d9;
+  font-family: "Inter";
+}
+h1 {
+  font-weight: bold;
+  color: #293241;
+}
+.app-div {
+  color: white;
+  background-color: #ee6c4d;
+}
+.convert-btn {
+  color: white;
+}
